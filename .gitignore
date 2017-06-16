@@ -1,0 +1,2 @@
+# Ignore npm modules -> third party modules we don't want to track
+node_modules
